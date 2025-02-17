@@ -1,0 +1,13 @@
+plotly
+pandas
+scikit-learn
+pyyaml~=6.0.2
+pyyaml
+streamlit
+seaborn
+matplotlib
+numpy
+requests
+scipy
+flask
+plotly
