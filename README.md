@@ -11,6 +11,7 @@ Projeto que visa a criação de um dashboard interativo para visualizar e analis
 
 Além disso, o projeto permite a análise detalhada dos treinos e a segmentação dos dados em diferentes padrões para melhor interpretação e acompanhamento do desempenho do usuário.
 
+![alt text](image.png)
 ## Estrutura do Projeto
 
 O repositório está organizado da seguinte forma:
